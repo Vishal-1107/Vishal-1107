@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal
-- 🌱 I’m currently learning Data Analyst & Machine learning Tools
+- 🌱 I’m currently working as Machine Learning Intern @AICAN Pvt. Ltd.
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me- vk8071@gmail.com
   
